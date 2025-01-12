@@ -1,5 +1,6 @@
 # Search Insights
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98d5a1d4baf14b58a7e49a616a4be0a0)](https://app.codacy.com/gh/FeaDeaD/search-insights.js?utm_source=github.com&utm_medium=referral&utm_content=FeaDeaD/search-insights.js&utm_campaign=Badge_Grade)
 [![Build Status](https://circleci.com/gh/algolia/search-insights.js.svg?style=shield)](https://github.com/algolia/search-insights.js)
 [![npm version](https://badge.fury.io/js/search-insights.svg)](https://badge.fury.io/js/search-insights)
 
