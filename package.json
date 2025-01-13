@@ -67,7 +67,7 @@
     "@types/istanbul-reports": "^3.0.4",
     "@types/jest": "^29.5.4",
     "@types/jsdom": "^21.1.2",
-    "@types/node": "^20.5.7",
+    "@types/node": "^22.10.2",
     "@typescript-eslint/eslint-plugin": "^6.5.0",
     "@typescript-eslint/parser": "^6.5.0",
     "bundlesize2": "^0.0.31",
