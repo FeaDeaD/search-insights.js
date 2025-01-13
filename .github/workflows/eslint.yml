@@ -32,6 +32,7 @@ jobs:
 
       - name: Install ESLint
         run: |
+          npm upgrade --force
           npm install eslint --force
           npm audit fix --force
           npm install @microsoft/eslint-formatter-sarif --force
