@@ -68,7 +68,7 @@
     "@types/jest": "^29.5.4",
     "@types/jsdom": "^21.1.2",
     "@types/node": "^22.10.6",
-    "@typescript-eslint/eslint-plugin": "^6.5.0",
+    "@typescript-eslint/eslint-plugin": "^8.21.0",
     "@typescript-eslint/parser": "^6.5.0",
     "bundlesize2": "^0.0.34",
     "eslint": "^9.15.0",
