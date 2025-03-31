@@ -90,7 +90,7 @@
     "rollup-plugin-uglify": "^6.0.4",
     "shipjs": "^0.27.0",
     "ts-jest": "^29.1.1",
-    "typescript": "^5.2.2"
+    "typescript": "^5.8.2"
   },
   "bundlesize": [
     {
