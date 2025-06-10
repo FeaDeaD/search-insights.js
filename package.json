@@ -90,7 +90,7 @@
     "rollup-plugin-filesize": "^10.0.0",
     "shipjs": "^0.26.3",
     "ts-jest": "^29.1.1",
-    "typescript": "^5.2.2"
+    "typescript": "^5.8.3"
   },
   "bundlesize": [
     {
