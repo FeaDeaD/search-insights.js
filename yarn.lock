@@ -3004,7 +3004,7 @@ dot-prop@^3.0.0:
   dependencies:
     is-obj "^1.0.0"
 
-dotenv@^8.1.0, dotenv@^8.2.0:
+dotenv@^8.2.0:
   version "8.2.0"
   resolved "https://registry.npmjs.org/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
@@ -3349,11 +3349,6 @@ eslint@^9.29.0:
     minimatch "^3.1.2"
     natural-compare "^1.4.0"
     optionator "^0.9.3"
-
-esm@3.2.25:
-  version "3.2.25"
-  resolved "https://registry.npmjs.org/esm/-/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
-  integrity sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==
 
 espree@^10.0.1, espree@^10.3.0, espree@^10.4.0:
   version "10.4.0"
@@ -6906,21 +6901,20 @@ shelljs@0.8.5:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-shipjs-lib@0.26.3:
-  version "0.26.3"
-  resolved "https://registry.yarnpkg.com/shipjs-lib/-/shipjs-lib-0.26.3.tgz#6c4f4f1c13c5193ba9f596265c5f195395c29df2"
-  integrity sha512-7fCZ64qiYGGOSn/8XIsteGq02TdwX0Y2clWIuxOUDjd+SxXyioD00xOvPcXSfoRgwncHq+xo6wxgHUf/q3v/Ow==
+shipjs-lib@0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/shipjs-lib/-/shipjs-lib-0.27.0.tgz#289f850ac28081612f670370ba669e1efa5c27f4"
+  integrity sha512-BLqiL4CqTTk6yj2hFOcIRzlGHLpSshPof9ldEx2HierdzeueDm/4Rd+RXdeL53EGYqT+HuqVIC5DYMLARPPJEQ==
   dependencies:
     deepmerge "^4.2.2"
-    dotenv "^8.1.0"
     parse-github-url "1.0.2"
     semver "6.3.0"
     shelljs "0.8.5"
 
-shipjs@^0.26.3:
-  version "0.26.3"
-  resolved "https://registry.yarnpkg.com/shipjs/-/shipjs-0.26.3.tgz#61e54e4fbffb9ec96de39b9161f456935f7d786a"
-  integrity sha512-TA/JfbVegeHDUrf/GhyQ0VqxADh7btjfXr54U/9Om58V3MjR5jx47cmSWwQXx2Es2S0BMA3Oup4qzeKGSOXUdw==
+shipjs@^0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/shipjs/-/shipjs-0.27.0.tgz#72c8b9a4c75fd28a4b717a3fb1f553f2bb77f728"
+  integrity sha512-4lbARswZR6ZaSvHsKfJcHpSZTHAum08lWx29aYvt48ytl3jIP2a3mu6m3QrH1N9wwiFrUgtM9eI8B14Cc0GSzA==
   dependencies:
     "@babel/runtime" "^7.6.3"
     "@octokit/rest" "^17.11.0"
@@ -6935,7 +6929,6 @@ shipjs@^0.26.3:
     deepmerge "^4.2.2"
     dotenv "^8.2.0"
     ejs "^3.0.0"
-    esm "3.2.25"
     globby "^10.0.1"
     inquirer "7.1.0"
     mkdirp "^1.0.0"
@@ -6943,7 +6936,7 @@ shipjs@^0.26.3:
     prettier "^2.0.0"
     serialize-javascript "^3.0.0"
     shell-quote "^1.7.2"
-    shipjs-lib "0.26.3"
+    shipjs-lib "0.27.0"
     temp-write "4.0.0"
     tempfile "^3.0.0"
 
