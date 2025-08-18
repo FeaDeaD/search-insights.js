@@ -72,7 +72,7 @@
     "@typescript-eslint/eslint-plugin": "^8.36.0",
     "@typescript-eslint/parser": "^8.35.0",
     "bundlesize2": "^0.0.35",
-    "eslint": "^9.29.0",
+    "eslint": "^9.32.0",
     "eslint-config-algolia": "^23.1.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-eslint-comments": "^3.2.0",
